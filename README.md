@@ -37,7 +37,7 @@ Obrigado por escolher nosso programa!
 
 ### 📄 License
 
-- Usando a licença [Apache License 2.0]
+- Usando a licença [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### 💪 Contribuindo
 
